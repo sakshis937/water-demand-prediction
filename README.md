@@ -2,7 +2,7 @@
 
 > A machine learning web application that predicts municipal water demand based on environmental and social factors — built to support smarter water resource planning for city administrators.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bcawater-demand-predictionsakshisharma-ihmafbann6dsq6kgxjujua.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://water-demand-prediction-knppdpyf3k9v8ir4knvovp.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square)
 ![Model](https://img.shields.io/badge/Model-Random%20Forest-orange?style=flat-square)
 ![UI](https://img.shields.io/badge/UI-Streamlit-red?style=flat-square)
