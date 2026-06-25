@@ -8,7 +8,7 @@
 ![UI](https://img.shields.io/badge/UI-Streamlit-red?style=flat-square)
 ![Type](https://img.shields.io/badge/Project-Group%20Academic%20Project-lightgrey?style=flat-square)
 
-🔗 **Live Demo:** https://bcawater-demand-predictionsakshisharma-ihmafbann6dsq6kgxjujua.streamlit.app
+🔗 **Live Demo:** https://water-demand-prediction-knppdpyf3k9v8ir4knvovp.streamlit.app/
 
 ---
 
